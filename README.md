@@ -1,5 +1,7 @@
 # O Nordeste espera mais?
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KevinCostaAI/nordeste-espera-mais/blob/main/01_o_nordeste_espera_mais.ipynb)
+
 Prazo de entrega no e-commerce brasileiro: 96.470 pedidos entregues, dados públicos da Olist (2016–2018).
 
 ## A pergunta
@@ -26,7 +28,7 @@ Comecei achando que a distância explicava tudo. Fui buscar o prazo prometido po
 
 **Só olhei pedidos que chegaram.** Não dá para medir tempo de entrega de pedido que nunca chegou — e é aí que mora o problema maior. Se o Nordeste tiver proporcionalmente mais pedidos cancelados ou extraviados, os 19,5 dias e os 12,7% são o **piso, não o teto**.
 
-O [Projeto 3](https://github.com/KevinCosta-AI/o-que-o-cliente-reclama) mostrou o tamanho disso: a queixa mais comum de quem teve pedido atrasado não é a demora, é **não saber onde está o pedido**.
+O [Projeto 3](https://github.com/KevinCostaAI/o-que-o-cliente-reclama) mostrou o tamanho disso: a queixa mais comum de quem teve pedido atrasado não é a demora, é **não saber onde está o pedido**.
 
 E não é uma amostra do Brasil: é a Olist, um marketplace, entre 2016 e 2018.
 
@@ -45,8 +47,8 @@ Três projetos sobre a mesma base, feitos em sequência. **Os três estão publi
 | Projeto | Pergunta | Resposta |
 |---|---|---|
 | **1 — este** | quem espera mais? | o Nordeste — e não é distância, é imprevisibilidade |
-| [2 — Dá pra saber que vai atrasar?](https://github.com/KevinCosta-AI/prever-atraso-entrega) | dá pra prever? | dá, e o modelo redesenhou o mapa do Brasil sozinho |
-| [3 — O que o cliente reclama?](https://github.com/KevinCosta-AI/o-que-o-cliente-reclama) | o que o cliente sente? | não sente atraso: sente que o pedido sumiu |
+| [2 — Dá pra saber que vai atrasar?](https://github.com/KevinCostaAI/prever-atraso-entrega) | dá pra prever? | dá, e o modelo redesenhou o mapa do Brasil sozinho |
+| [3 — O que o cliente reclama?](https://github.com/KevinCostaAI/o-que-o-cliente-reclama) | o que o cliente sente? | não sente atraso: sente que o pedido sumiu |
 
 ---
 
