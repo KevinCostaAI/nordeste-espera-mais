@@ -54,4 +54,4 @@ Três projetos sobre a mesma base, feitos em sequência. **Os três estão publi
 
 **Dados:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) · 2016–2018 · uso público
 
-Kevin Moreira da Costa · [LinkedIn](https://www.linkedin.com/in/kevincosta-ai) · kevincosta-ai@outlook.com
+Kevin Moreira da Costa · [LinkedIn](https://www.linkedin.com/in/KevinCostaAI) · KevinCostaAI@outlook.com
